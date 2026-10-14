@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.uv-cache/
+dist/
+build/
+output/
+.env
+.env.*
+!.env.example
+*.pem
+*.key

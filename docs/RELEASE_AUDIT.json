@@ -1,0 +1,28 @@
+[
+  {
+    "mode": "centralized",
+    "passed": true,
+    "final_slots": 24,
+    "first_all_slots_time": 49.2,
+    "sustained_all_slots_time": 49.2,
+    "max_final_slot_error": 0.15805949620098658,
+    "checked_ode_segments": 20,
+    "checked_control_steps": 1200,
+    "pair_interval_lower": 0.6225325623644654,
+    "obstacle_interval_lower": 0.34582408865336567,
+    "fallback_count": 0
+  },
+  {
+    "mode": "hybrid",
+    "passed": true,
+    "final_slots": 24,
+    "first_all_slots_time": 48.150000000000006,
+    "sustained_all_slots_time": 48.150000000000006,
+    "max_final_slot_error": 0.1577575544658953,
+    "checked_ode_segments": 20,
+    "checked_control_steps": 1200,
+    "pair_interval_lower": 0.6049942929257235,
+    "obstacle_interval_lower": 0.3683286390677179,
+    "fallback_count": 0
+  }
+]
